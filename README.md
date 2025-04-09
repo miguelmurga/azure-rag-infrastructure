@@ -11,7 +11,6 @@ La infraestructura despliega los siguientes componentes:
 - **Azure Key Vault**: Almacenamiento seguro de secretos
 - **Redes y Seguridad**: VNet, NSG, DDoS Protection, etc.
 
-![Diagrama de Arquitectura](docs/images/architecture.png)
 
 ## Requisitos Previos
 
